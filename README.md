@@ -1,6 +1,6 @@
 # OIBSIP
 Data Scientist Intern at Oasis InfoByte | Projects
-![image](https://github.com/Mohamed-Sherif-ELBOAIRE/OIBSIP/assets/127639491/fed93c0c-53f6-4eed-b3d0-cf23a7c037e6)
+![image](https://github.com/Mohamed-Sherif-ELBOAIRE/OIBSIP/assets/127639491/fed93c0c-53f6-4eed-b3d0-cf23a7c037e6) <br>
 
 OASIS INFOBYTE is a community of diverse people coming together with similar objectives and ultimate goals. 
 
